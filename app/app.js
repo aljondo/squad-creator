@@ -5,6 +5,8 @@ angular.module('myApp', [
     'myApp.config',
     'myApp.security',
     'myApp.home',
+    'myApp.about',
+    'myApp.questions',
     'myApp.account',
     'myApp.chat',
     'myApp.login'

@@ -16,6 +16,8 @@ module.exports = function(config){
       'app/account/**/*.js',
       'app/chat/**/*.js',
       'app/home/**/*.js',
+      'app/about/**/*.js'
+      'app/questions/**/*/.js',
       'app/login/**/*.js',
       'app/config_test.js'
     ],
