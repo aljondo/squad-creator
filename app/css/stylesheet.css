@@ -1,12 +1,12 @@
 /* Fonts */
 @font-face {
   font-family: Avenir;
-  src: url(/font/AvenirNext-Regular.ttf)
+  src: url(font/AvenirNext-Regular.ttf)
 }
 
 @font-face {
   font-family: Avenir-DemiBold;
-  src: url(/font/AvenirNext-DemiBold.ttf)
+  src: url(font/AvenirNext-DemiBold.ttf)
 }
 
 strong {
